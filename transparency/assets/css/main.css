@@ -2875,6 +2875,7 @@ body.is-loading #banner p {
         background-color: #2e3141;
         background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("http://i.imgur.com/sJ1dL1c.jpg");
         background-size: auto, cover;
+        background-attachment: fixed;
         background-position: center, 0% 30%;
         margin-bottom: -6.5em;
     }
@@ -3202,6 +3203,7 @@ body.is-loading #banner p {
         background-image: linear-gradient(to top, rgba(46, 49, 65, 0.8), rgba(46, 49, 65, 0.8)), url("http://i.imgur.com/sJ1dL1c.jpg");
         background-size: auto, cover;
         background-position: center, center;
+        background-attachment: fixed;
         margin-top: -6.5em;
         padding-top: 6.5em;
     }
